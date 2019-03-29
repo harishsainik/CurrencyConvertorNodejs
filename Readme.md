@@ -1,0 +1,1 @@
+This is a simple currency convertor. The project is to demo await and async. It uses AXIOS npm module to call 2 external apis. We have to pass in the currency codes along with the amout, and it will show us the converted value based on the real time data fetch from 2 external apis.
